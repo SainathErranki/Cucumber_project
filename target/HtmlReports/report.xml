@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="10.537">
+    <testcase classname="Test1" name="To Check Alert message and verify disabled state of button" time="10.428">
+        <system-out><![CDATA[When Wait for button to displayed...........................................passed
+Then click on the button....................................................passed
+And Verify Alert to display in screen.......................................passed
+Then Verify button is disabled or not.......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
